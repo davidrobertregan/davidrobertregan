@@ -1,4 +1,4 @@
-### Hi there 👋
+![david regan banner](https://user-images.githubusercontent.com/83370854/145079822-4aa4b9dc-6b8a-4a4b-98ce-ac295054ee26.png)
 
 <!--
 **davidrobertregan/davidrobertregan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
